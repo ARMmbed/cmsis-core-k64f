@@ -1,6 +1,6 @@
 {
   "name": "cmsis-core-k64f",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "CMSIS Core Implementation for K64F",
   "private": true,
   "keywords": [
