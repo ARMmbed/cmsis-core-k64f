@@ -3,7 +3,9 @@
   "version": "0.2.0",
   "description": "CMSIS Core Implementation for K64F",
   "keywords": [
-    "cmsis"
+    "cmsis",
+    "mbed",
+    "mbed-official"
   ],
   "author": "Bogdan Marinescu <bogdan.marinescu@arm.com>",
   "repository": {
